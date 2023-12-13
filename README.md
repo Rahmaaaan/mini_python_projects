@@ -1,6 +1,6 @@
-![banner](https://www.infopulse.com/uploads/media/open-source-who-benefits-from-it-most-of-all-1920x528_1.webp)
+![banner](https://media.istockphoto.com/id/1284202542/vector/programming-language-python-conceptual-banner-education-coding-computer-language-python.jpg?s=612x612&w=0&k=20&c=DwTB320vMYH8MAnPjrwEeJqlWs1V4y10ExC0xcMmHig=)
 
-<<h1 align="center">Python Mini Projects</h1>
+<h1 align="center">Python Mini Projects</h1>
 
 Welcome to a collection of mini Python projects showcasing various functionalities and concepts in Python programming.
 
