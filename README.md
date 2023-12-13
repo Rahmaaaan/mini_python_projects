@@ -1,6 +1,6 @@
-![Banner](https://www.infopulse.com/uploads/media/open-source-who-benefits-from-it-most-of-all-1920x528_1.webp)
+![banner](https://www.infopulse.com/uploads/media/open-source-who-benefits-from-it-most-of-all-1920x528_1.webp)
 
-# Python Mini Projects
+<<h1 align="center">Python Mini Projects</h1>
 
 Welcome to a collection of mini Python projects showcasing various functionalities and concepts in Python programming.
 
