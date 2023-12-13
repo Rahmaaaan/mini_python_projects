@@ -13,7 +13,7 @@ This is a simple implementation of the Blackjack card game where you, the player
 
 The game operates according to the following flowchart:
 
-![Blackjack Flowchart](https://drive.google.com/uc?export=download&id=1rDkiHCrhaf9eX7u7yjM1qwSuyEk-rPnt)
+[Blackjack Flowchart](https://drive.google.com/uc?export=download&id=1rDkiHCrhaf9eX7u7yjM1qwSuyEk-rPnt)
 
 ## Running the Game
 
