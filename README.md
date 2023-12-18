@@ -17,6 +17,7 @@ Welcome to a collection of mini Python projects showcasing various functionaliti
 | 7.    | Rock Paper Scissors | Classic hand game                   | [Rock Paper Scissors Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Rock_Paper_Scissors) |
 | 8.    | Tip Calculator      | Calculate tips based on bill amount | [Tip Calculator Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Tip_Calculator)           |
 | 9.    | Treasure Hunt       | Exciting adventure game             | [Treasure Hunt Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Treasure_Hunt)             |
+| 10.    | Hangman       | Guessing word game             | [Hangman Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Hangman)             |
 
 ## Overview
 
