@@ -19,7 +19,7 @@ The game operates according to the following flowchart:
 
 To play the game, simply run the main script. The computer will act as the dealer, and you, the player, will interact to hit or stand based on the cards dealt.
 
-### Instructions:
+### Instructions
 
 - Execute the main script (main.py, blackjack.py, etc.).
 - Follow the prompts to decide whether to "hit" (draw another card) or "stand" (keep the current hand).

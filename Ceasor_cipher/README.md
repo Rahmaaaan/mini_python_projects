@@ -1,5 +1,5 @@
 # Ceasor Cipher
- 
+
 The Caesar Cipher is a simple and widely known encryption technique. It operates by shifting the letters of the alphabet by a fixed number of positions. For instance, with a shift of 3, 'A' would become 'D', 'B' would become 'E', and so on.
 
 ## Features
