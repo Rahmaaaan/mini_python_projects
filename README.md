@@ -6,20 +6,20 @@ Welcome to a collection of mini Python projects showcasing various functionaliti
 
 ## Projects
 
-| Sl.No | Project Name        | Description                                | Repository                                                                                                  |
-| ----- | ------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| 1.    | Bandname Generator  | Generate unique band names                 | [Bandname Generator Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Bandname_Generator)   |
-| 2.    | Blackjack           | Classic card game                          | [Blackjack Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Blackjack)                     |
-| 3.    | Blind Auction       | Auction simulation                         | [Blind Auction Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Blind_Auction)             |
-| 4.    | Calculator          | Basic arithmetic operations                | [Calculator Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Calculator)                   |
-| 5.    | Caesar Cipher       | Encrypt and decrypt messages               | [Caesar Cipher Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Caesar_Cipher)             |
-| 6.   | Guess the number    | Guess the number game                      | [Guess the number Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Guess_the_no)           |
-| 7.   | Hangman             | Guessing word game                         | [Hangman Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/High_or_Low)                     |
-| 8.   | High or Low         | Guess if the follower count is high or low | [High or low Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/)                            |
-| 9.    | Password Generator  | Generate secure passwords                  | [Password Generator Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Password_Generator)   |
-| 10.    | Rock Paper Scissors | Classic hand game                          | [Rock Paper Scissors Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Rock_Paper_Scissors) |
-| 11.    | Tip Calculator      | Calculate tips based on bill amount        | [Tip Calculator Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Tip_Calculator)           |
-| 12.    | Treasure Hunt       | Exciting adventure game                    | [Treasure Hunt Repo](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Treasure_Hunt)             |
+| Sl.No | Project Name        | Description                                | Repository                                                                                             |
+| ----- | ------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| 1.    | Bandname Generator  | Generate unique band names                 | [Bandname Generator](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Bandname_Generator)   |
+| 2.    | Blackjack           | Classic card game                          | [Blackjack](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Blackjack)                     |
+| 3.    | Blind Auction       | Auction simulation                         | [Blind Auction](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Blind_Auction)             |
+| 4.    | Calculator          | Basic arithmetic operations                | [Calculator](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Calculator)                   |
+| 5.    | Caesar Cipher       | Encrypt and decrypt messages               | [Caesar Cipher](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Caesar_Cipher)             |
+| 6.    | Guess the number    | Guess the number game                      | [Guess the number](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Guess_the_no)           |
+| 7.    | Hangman             | Guessing word game                         | [Hangman](https://github.com/Rahmaaaan/mini_python_projects/tree/main/High_or_Low)                     |
+| 8.    | High or Low         | Guess if the follower count is high or low | [High or low](https://github.com/Rahmaaaan/mini_python_projects/tree/main/)                            |
+| 9.    | Password Generator  | Generate secure passwords                  | [Password Generator](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Password_Generator)   |
+| 10.   | Rock Paper Scissors | Classic hand game                          | [Rock Paper Scissors](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Rock_Paper_Scissors) |
+| 11.   | Tip Calculator      | Calculate tips based on bill amount        | [Tip Calculator](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Tip_Calculator)           |
+| 12.   | Treasure Hunt       | Exciting adventure game                    | [Treasure Hunt](https://github.com/Rahmaaaan/mini_python_projects/tree/main/Treasure_Hunt)             |
 
 ## Overview
 
